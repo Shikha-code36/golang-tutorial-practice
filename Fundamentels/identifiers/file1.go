@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Shikha-code36/golang-tutorial-practice/Fundamentels/identifiers/file2/file2.go"
+	"github.com/Shikha-code36/golang-tutorial-practice/Fundamentels/identifiers/file2"
 )
 
 // Exported variable

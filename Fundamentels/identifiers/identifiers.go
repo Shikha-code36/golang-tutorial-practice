@@ -111,3 +111,32 @@ Output: (after running go run file1.go)
 Hello, World!
 Greetings from file2!
 */
+
+
+/*
+
+1. **Ensure Correct Directory Structure**: Make sure `file2.go` is inside a directory named `file2` under `identifiers`. The structure should look like this:
+
+```
+identifiers/
+├── file1.go
+└── file2/
+    └── file2.go
+```
+
+2. **Correct Import Statement**: In `file1.go`, the import statement should be:
+
+```go
+import (
+	"fmt"
+	"github.com/Shikha-code36/golang-tutorial-practice/Fundamentels/identifiers/file2"
+)
+```
+
+3. **Initialize Go Module at Root**: Navigate to the root of your project (where `identifiers` directory is located) and run `go mod init github.com/Shikha-code36/golang-tutorial-practice`.
+
+4. **Run `go mod tidy`**: This command will add missing and remove unused modules.
+
+5. **Run Your Go File**: Now, navigate back to the `identifiers` directory and you should be able to run your Go file with `go run file1.go`.
+
+*/

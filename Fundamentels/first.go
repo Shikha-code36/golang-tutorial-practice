@@ -14,6 +14,7 @@ import(
 
 func main() {
     fmt.Println("!... Hello World ...!")
+	fmt.Println("1 + 1 =", 1+1)
 }
 
 // In the above lines of code we have:

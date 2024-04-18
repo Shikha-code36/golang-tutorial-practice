@@ -45,3 +45,4 @@ go run tutorial1/main.go
 - [x] [Basics](tutorial1)
 - [x] [Constants Variables and Basic Data Types](tutorial2)
 - [x] [Functions and Control Structures](tutorial3)
+- [x] [Arrays, Slices, Maps and Loops](tutorial4)

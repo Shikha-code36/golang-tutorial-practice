@@ -16,6 +16,6 @@ Here's a breakdown of the [code](main.go):
 
 - `fmt.Println("Radhe Radhe")`: This line calls the `Println` function from the `fmt` package to print the string "Radhe Radhe" to the standard output.
 
-- This program, when run, will simply print "Radhe Radhe" to your console.
+- This program, when run, will simply print `"Radhe Radhe"` to your console.
 
 

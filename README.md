@@ -40,3 +40,6 @@ go build tutorial1/main.go
 ```shell
 go run tutorial1/main.go
 ```
+
+### Topics covered:
+- [x] [Basics](tutorial1)

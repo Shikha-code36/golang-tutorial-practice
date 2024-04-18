@@ -44,3 +44,4 @@ go run tutorial1/main.go
 ### Topics covered:
 - [x] [Basics](tutorial1)
 - [x] [Constants Variables and Basic Data Types](tutorial2)
+- [x] [Functions and Control Structures](tutorial3)

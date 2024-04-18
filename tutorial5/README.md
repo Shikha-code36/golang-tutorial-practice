@@ -1,6 +1,6 @@
 # Strings, Runes, and UTF-8 Encoding in Go
 
-This README will guide you through some basic concepts in Go, including strings, runes, and UTF-8 encoding. The code we'll be discussing demonstrates these concepts in a simple and understandable way.
+This will guide you through some basic concepts in Go, including strings, runes, and UTF-8 encoding. The code we'll be discussing demonstrates these concepts in a simple and understandable way.
 
 ## Strings and UTF-8 Encoding
 

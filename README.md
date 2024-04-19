@@ -48,3 +48,4 @@ go run tutorial1/main.go
 - [x] [Arrays, Slices, Maps and Loops](tutorial4)
 - [x] [Strings, Runes, and UTF-8 Encoding](tutorial5)
 - [x] [Structs and Interfaces](tutorial6)
+- [x] [Pointers](tutorial7)

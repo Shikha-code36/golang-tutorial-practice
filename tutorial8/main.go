@@ -88,3 +88,27 @@ and then exited the program before they were complete
 we need a way for our program to wait until all tasks completed and continue on to the rest of the code
 this where wait groups comes in, which can be imported through sync package
 */
+
+/*
+>>>>>>>>>>>>>>>>>>>>>>> go run tutorial8/main.go
+
+O/P :::::::::::::::
+
+The result from the database is: id1
+
+The current results are: [id1]
+The result from the database is: id5
+
+The current results are: [id1 id5]
+The result from the database is: id2
+
+The current results are: [id1 id5 id2]
+The result from the database is: id3
+
+The current results are: [id1 id5 id2 id3]
+The result from the database is: id4
+
+The current results are: [id1 id5 id2 id3 id4]
+Total execution time: 2.0148696s
+The results are [id1 id5 id2 id3 id4]
+*/

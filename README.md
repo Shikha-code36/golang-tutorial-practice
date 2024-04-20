@@ -52,3 +52,5 @@ go run tutorial1/main.go
 - [x] [Concurrency(Goroutines)](tutorial8)
 - [x] [Channels](tutorial9)
 - [x] [Generics](tutorial10)
+
+This repository is for the references, anyone can feel free to use this.

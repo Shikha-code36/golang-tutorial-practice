@@ -50,3 +50,4 @@ go run tutorial1/main.go
 - [x] [Structs and Interfaces](tutorial6)
 - [x] [Pointers](tutorial7)
 - [x] [Concurrency(Goroutines)](tutorial8)
+- [x] [Channels)](tutorial9)
